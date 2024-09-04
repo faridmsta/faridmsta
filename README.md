@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey,It's Farid👋<br><br>I'am a 18 years old Frontend Developer,guy who is passionated on his job with a keen eye for crafting delightful user experiences.<br><br>| Check out my website to learn more about me ;) [www.wanttoknow.me](https://www.wanttoknow.me/)
 
 
