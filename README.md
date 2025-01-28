@@ -15,7 +15,7 @@ Hey,It's Farid👋<br><br>I'am a 18 years old Frontend Developer,guy who is pass
 ![](https://github-profile-trophy.vercel.app/?username=faridmsta&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=faridmsta&color=green)
 [![](https://visitcount.itsvg.in/api?id=faridmsta&icon=6&color=1)](https://visitcount.itsvg.in)
 
 
